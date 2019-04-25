@@ -1,4 +1,4 @@
 test branch2
-new test
+new test;
 test branch2
 test branch2.2
